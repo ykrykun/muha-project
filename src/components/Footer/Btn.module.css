@@ -1,0 +1,15 @@
+.footerBtnSurf {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: #F5F6FA;
+    width: 450px;
+    height: 80px;
+    border-radius: 25px;
+    margin-bottom: 31px;
+}
+
+
+.pic {
+    padding: 0px 28px 0px 35px;
+}

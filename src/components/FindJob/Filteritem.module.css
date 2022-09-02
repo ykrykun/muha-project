@@ -1,0 +1,42 @@
+.filterItem {
+    width: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.filterItemHeader {
+    width: 227px;
+    height: 44px;
+    border-radius: 10px;
+    background-color: #E5F1FF;
+    display: flex;
+    align-items: center;
+    padding-left: 23px;
+    margin: 20px 0px 18px;
+    text-transform: uppercase;
+}
+
+.filterCheck {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+}
+
+.check {
+    display: flex;
+    align-items: center;
+    padding-bottom: 15px;
+}
+
+.check:last-child {
+    padding-bottom: 25px;
+}
+
+.checkInput {
+    margin-right: 12px;
+}
+
+.inputText {
+    flex-grow: 2;
+}

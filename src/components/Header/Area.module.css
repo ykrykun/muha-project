@@ -1,0 +1,58 @@
+.area {
+    background:url("/src/components/Header/backgrond.svg");
+    width: 100%;
+    height: 755px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.people {
+    width: 384px;
+    height: 376px;
+}
+
+.areaText {
+    display: flex;
+    width: 1020px;
+    justify-content: space-around;
+}
+
+.textBlock {
+    width: 420px;
+}
+
+.titl {
+    margin-bottom: 25px;
+}
+
+.text {
+    margin-bottom: 63px;
+}
+
+.btnBloc {
+    display: flex;
+}
+
+.areaBtn {
+    width: 145px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #4474FF;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 24px;
+    font-size: 12px;
+}
+.areaBtn:last-child{
+    height: 36px;
+    width: 185px;
+    border: 2px solid#4474FF;
+    background-color: #fff;
+    color: #4474FF;
+    margin: 0px;
+}

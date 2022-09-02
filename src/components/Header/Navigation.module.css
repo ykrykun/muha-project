@@ -1,0 +1,35 @@
+nav {
+    width: 1024px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.navig {
+    display: flex;
+    width: 1024px;
+}
+
+.item {
+    display: flex;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    align-items: center;
+}
+
+.logo {
+    padding-top: 4px;
+    width: 85px;
+    height: 26px;
+}
+
+.account {
+    width: 24px;
+    height: 24px;
+    margin-right: 7px;
+}
+
+.item:nth-child(4){
+    margin-right: 180px;
+}
+

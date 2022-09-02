@@ -1,0 +1,60 @@
+.vacancyBlock {
+    width: 660px;
+    height: 240px;
+    background: #fff;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.satisfactionImg {
+    width: 107px;
+    padding-right: 11px;
+}
+
+.satisfaction {
+    width: 206px;
+    height: 23px;
+    border-radius: 5px;
+    background: rgba(56, 130, 243, 0.07);
+    display: flex;
+    align-items: center;
+    padding: 3px 10px;
+    color: #3882F3;
+}
+
+.save {
+    width: 118px;
+    height: 23px;
+    background: rgba(56, 130, 243, 0.07);
+    border-radius: 5px;
+    color: #3882F3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.vacancyTitle {
+
+}
+
+.vacancyText {
+    width: 570px;
+}
+
+.block {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footerAny {
+    padding-right: 11px;
+}
+
+.footerAny:last-child {
+    padding: 0;
+}

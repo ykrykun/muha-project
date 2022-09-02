@@ -1,0 +1,22 @@
+.wrap {
+    height: 820px;
+    background-color: #EDEEF6;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.reviewWrap {
+    display: flex;
+    width: 1024px;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    padding-top: 82px;
+}
+
+.reviewBlock {
+    padding: 12px;
+}
+
